@@ -1,0 +1,26 @@
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+body {
+	background-image: url(../images/trainbackground.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.jumbotron {
+	border-color: #495258;	
+	color: ##495258;
+	background-color: #fff; 
+}
+
+.panel-default>.panel-heading {
+	color: #fff;
+    background-color: #7C858B;
+    border-color: #495258;
+}
+
+.panel-default {
+    border-color: #495258;
+}
